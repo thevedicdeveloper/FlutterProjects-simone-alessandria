@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
       title: "Hello World Travel Title",
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Hellow World Travel App"),
+          title: Text("Hello World Travel App"),
           backgroundColor: Colors.deepPurple,
         ),
         body: Builder(builder: (context) {
